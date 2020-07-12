@@ -36,4 +36,15 @@ body{
 .navbar-dark{
     background-color: #0f0f0f;
 }
+.fa-home{
+    color: blue;
+}
+.fa-list{
+    font-size: large;
+    color: blanchedalmond;
+}
+.fa-info{
+    font-size: x-large;
+    color: tomato;
+}
 
